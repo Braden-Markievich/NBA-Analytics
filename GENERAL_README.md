@@ -2,8 +2,8 @@ Repository includes code for visualizing analytics used when evaluating NBA play
 
 These steps are also included as files within this repository.
 
-Code that was used as web scraping has a .ipynb file extension, while code used to create the data visualization has a .py file extension.
+Code that was used as web scraping has a .ipynb file extension, while code used to create the data visualization has a .py file extension. Final visualizations have .png file extensions.
 
-Tools used for these projects include: JupyterLab, Matplotlib, Pandas, NBA.com, Basketball-Reference
+Tools used for these projects include: JupyterLab, Matplotlib, Pandas, NBA.com, Basketball-Reference, CleaningTheGlass
 
 This is an ongoing portfolio.
